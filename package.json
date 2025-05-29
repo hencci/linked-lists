@@ -1,0 +1,8 @@
+{
+    "name": "linked-list",
+    "type": "module",
+    "main": "src/main.js",
+    "scripts": {
+        "start": "node src/main.js"
+    }
+}
