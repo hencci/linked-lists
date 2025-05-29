@@ -2,7 +2,13 @@
     "name": "linked-list",
     "type": "module",
     "main": "src/main.js",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [],
+    "author": "",
     "scripts": {
         "start": "node src/main.js"
-    }
+    },
+
+    "license": "ISC"
 }
